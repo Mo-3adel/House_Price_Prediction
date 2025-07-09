@@ -58,14 +58,12 @@ This project is a complete end-to-end machine learning workflow for predicting h
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/house-price-xgboost.git
+   git clone https://github.com/Mo-3adel/House_Price_Prediction.git
    cd house-price-xgboost
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Dowload the Dataset and change the train and test path:
+
 
 3. Launch the notebook:
    ```bash
@@ -79,10 +77,7 @@ This project is a complete end-to-end machine learning workflow for predicting h
 ```
 ├── house-prices-prediction-with-xgboost-preproce.ipynb
 ├── README.md
-├── requirements.txt
-└── data/
-    ├── train.csv
-    └── test.csv
+
 ```
 
 ---
