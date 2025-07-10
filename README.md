@@ -67,7 +67,7 @@ This project is a complete end-to-end machine learning workflow for predicting h
 
 3. Launch the notebook:
    ```bash
-   jupyter notebook house-prices-prediction-with-xgboost-preproce.ipynb
+   jupyter notebook house-prices-prediction-with-xgboost-preproce-3.ipynb
    ```
 
 ---
